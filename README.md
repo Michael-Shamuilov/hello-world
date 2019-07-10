@@ -1,2 +1,3 @@
 # hello-world
-Starting up
+Do you agree?
+eula=false
